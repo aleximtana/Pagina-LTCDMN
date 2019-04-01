@@ -1,0 +1,9 @@
+
+    background: url('./images/beach_sec1.jpg');
+    background-size: cover;
+}
+
+section.content {
+    padding: 100px;
+}
+
