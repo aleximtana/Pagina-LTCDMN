@@ -47,7 +47,7 @@ nav .logo img {
     transform: rotate3d(0, 0, 1, 200deg);
     box-shadow: 10px -10px rgba(0,0,0,0.6); 
     -moz-box-shadow: 10px -10px rgba(0,0,0,0.6); 
-    -webkit-box-shadow: 10px -10px rgba(0,0,0,0.6); 
+    -webkit-box-shadow: 10px -10px rgba(0, 0, 0, 0.6); 
     -o-box-shadow: 10px -10px rgba(0,0,0,0.6); 
     border-radius:100px;
     
